@@ -1,5 +1,4 @@
 # UTS-Pemograman-web
-# UTS - Pertemuan ke 8
 # Tugas Pertemuan ke 8 { UTS }
 
 |**Nama**|**NIM**|**Kelas**|**Matkul**|
